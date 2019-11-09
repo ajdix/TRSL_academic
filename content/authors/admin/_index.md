@@ -15,10 +15,10 @@ superuser: true
 # Organizations/Affiliations
 organizations:
 - name: Purdue University
-  url: "https://engineering.purdue.edu"
+  url: "https://engineering.purdue.edu/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Reactor Safey Laboratory
+bio: Thermal Hydraulics and Reactor Safey Laboratory
 
 #interests:
 #- Artificial Intelligence
