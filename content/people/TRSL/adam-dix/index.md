@@ -1,13 +1,13 @@
 ---
 # Display name
-name: Thermal Hydraulics and Reactor Safety Laboratory
+name: Adam Dix
 
 # Username (this should match the folder name)
 authors:
-- admin
+- Adam Dix
 
 # Is this the primary user of the site?
-superuser: true
+superuser: false
 
 # Role/position
 # role: Professor of Artificial Intelligence
@@ -20,10 +20,10 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: Thermal Hydraulics and Reactor Safey Laboratory
 
-#interests:
-#- Artificial Intelligence
-#- Computational Linguistics
-#- Information Retrieval
+interests:
+- Artificial Intelligence
+- Computational Linguistics
+- Information Retrieval
 
 #education:
 #  courses:
@@ -63,5 +63,4 @@ user_groups:
 - Researchers
 - Visitors
 ---
-
-The Thermal Hydraulics and Reactor Safety Laboratory at Purdue University is among the foremost research institutions in the field of thermal hydraulics. 
+Hello
